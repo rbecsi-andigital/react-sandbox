@@ -1,4 +1,4 @@
-#React sandbox
+# React sandbox
 
 React, Babel and Webpack pre-installed for quick sandboxing.
 
@@ -6,3 +6,7 @@ React, Babel and Webpack pre-installed for quick sandboxing.
 npm install
 npm start
 ```
+
+## Supports
+- JSX
+- Spread operator {...}
